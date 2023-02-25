@@ -272,7 +272,7 @@ Markdown is a versatile format that is easy to transform to other formats for pu
 tool like [Pandoc][Pandoc], you can convert your Markdown help files to many different document
 formats, including plain text, HTML, PDF, and Office document formats.
 
-Also, the cmdlets [ConvertFrom-Markdown]ConvertFrom-Markdown] and [Show-Markdown][Show-Markdown] in
+Also, the cmdlets [ConvertFrom-Markdown][ConvertFrom-Markdown] and [Show-Markdown][Show-Markdown] in
 PowerShell 6 and higher can be used to convert Markdown to HTML or create a colorful display in the
 PowerShell console.
 
